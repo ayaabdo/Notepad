@@ -9,4 +9,4 @@ Nano Notepad application using javaFx that can do the following:
  6- Exit.
 ```
 ### **Notepad GUI** ###
-![alt text](notepadGUI.PNG)
+<img src= notepadGUI.png />
